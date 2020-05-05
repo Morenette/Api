@@ -4,31 +4,31 @@
    "previous":null,
    "results":[
       {
-         "name":"bulbasaur 1",
+         "name":"Salle de Bain",
          "url":"https://pokeapi.co/api/v2/pokemon/1/"
       },
       {
-         "name":"ivysaur 2",
+         "name":"Salon",
          "url":"https://pokeapi.co/api/v2/pokemon/2/"
       },
       {
-         "name":"venusaur 3",
+         "name":"Sols",
          "url":"https://pokeapi.co/api/v2/pokemon/3/"
       },
       {
-         "name":"charmander 4",
+         "name":"Chambre",
          "url":"https://pokeapi.co/api/v2/pokemon/4/"
       },
       {
-         "name":"charmeleon 5",
+         "name":"Cuisine",
          "url":"https://pokeapi.co/api/v2/pokemon/5/"
       },
       {
-         "name":"charizard 6",
+         "name":"Toilettes",
          "url":"https://pokeapi.co/api/v2/pokemon/6/"
       },
       {
-         "name":"squirtle 7",
+         "name":"Vêtement",
          "url":"https://pokeapi.co/api/v2/pokemon/7/"
       },
       {
