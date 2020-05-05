@@ -1,0 +1,34 @@
+[
+  "count" : 7,
+  "previous" : null,
+  "results" : [
+  {
+    "name" : "Salle de bain",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  },
+  {
+    "name" : "Salle de 2",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  },
+  {
+    "name" : "Salle de 3",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  },
+  {
+    "name" : "Salle de 4",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  },
+  {
+    "name" : "Salle de 5",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  },
+  {
+    "name" : "Salle de 6",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  },
+  {
+    "name" : "Salle de 7",
+    "imageurl" : "https://image.freepik.com/vecteurs-libre/interieur-salle-bain-moderne-dessin-anime-meubles_107791-304.jpg"
+  }
+  ]
+]
