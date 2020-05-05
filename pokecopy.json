@@ -1,5 +1,5 @@
 {
-   "count":20,
+   "count":7,
    "next":null,
    "previous":null,
    "results":[
@@ -30,58 +30,6 @@
       {
          "name":"Vêtement",
          "url":"https://pokeapi.co/api/v2/pokemon/7/"
-      },
-      {
-         "name":"wartortle 8",
-         "url":"https://pokeapi.co/api/v2/pokemon/8/"
-      },
-      {
-         "name":"blastoise 9",
-         "url":"https://pokeapi.co/api/v2/pokemon/9/"
-      },
-      {
-         "name":"caterpie 10",
-         "url":"https://pokeapi.co/api/v2/pokemon/10/"
-      },
-      {
-         "name":"metapod 11",
-         "url":"https://pokeapi.co/api/v2/pokemon/11/"
-      },
-      {
-         "name":"butterfree 12",
-         "url":"https://pokeapi.co/api/v2/pokemon/12/"
-      },
-      {
-         "name":"weedle 13",
-         "url":"https://pokeapi.co/api/v2/pokemon/13/"
-      },
-      {
-         "name":"kakuna 14",
-         "url":"https://pokeapi.co/api/v2/pokemon/14/"
-      },
-      {
-         "name":"beedrill 15",
-         "url":"https://pokeapi.co/api/v2/pokemon/15/"
-      },
-      {
-         "name":"pidgey 16",
-         "url":"https://pokeapi.co/api/v2/pokemon/16/"
-      },
-      {
-         "name":"pidgeotto 17",
-         "url":"https://pokeapi.co/api/v2/pokemon/17/"
-      },
-      {
-         "name":"pidgeot 18",
-         "url":"https://pokeapi.co/api/v2/pokemon/18/"
-      },
-      {
-         "name":"rattata 19",
-         "url":"https://pokeapi.co/api/v2/pokemon/19/"
-      },
-      {
-         "name":"raticate 20",
-         "url":"https://pokeapi.co/api/v2/pokemon/20/"
       }
    ]
 }
