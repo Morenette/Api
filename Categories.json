@@ -1,42 +1,42 @@
 [
 {
          "name":"Canalisation",
-         "url":"https://pokeapi.co/api/v2/pokemon/1/"
+         "url":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:Image_created_with_a_mobile_phone.png"
       },
       {
          "name":"Cuisine",
-         "url":"https://pokeapi.co/api/v2/pokemon/2/"
+         "url":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:Shadow_2752.jpg"
       },
       {
          "name":"Meuble",
-         "url":"https://pokeapi.co/api/v2/pokemon/3/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Sanitaire",
-         "url":"https://pokeapi.co/api/v2/pokemon/4/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Sol",
-         "url":"https://pokeapi.co/api/v2/pokemon/5/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Super Outil",
-         "url":"https://pokeapi.co/api/v2/pokemon/6/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Surface",
-         "url":"https://pokeapi.co/api/v2/pokemon/7/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Toilette",
-         "url":"https://pokeapi.co/api/v2/pokemon/7/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Vaisselle",
-         "url":"https://pokeapi.co/api/v2/pokemon/7/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       },
       {
          "name":"Vêtement",
-         "url":"https://pokeapi.co/api/v2/pokemon/7/"
+         "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
       }
 ]
