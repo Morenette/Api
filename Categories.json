@@ -1,41 +1,51 @@
 [
    {
+      "id"      =1,
       "name":"Canalisation",
       "url":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:Image_created_with_a_mobile_phone.png"
    },
    {
+      "id"      =2,
       "name":"Cuisine",
       "url":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:Shadow_2752.jpg"
    },
    {
+      "id"      =3,
       "name":"Meuble",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =4,
       "name":"Sanitaire",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =5,
       "name":"Sol",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =6,
       "name":"Super Outil",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =7,
       "name":"Surface",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =8,
       "name":"Toilette",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =9,
       "name":"Vaisselle",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    },
    {
+      "id"      =10,
       "name":"Vêtement",
       "url_image":"https://fr.wikipedia.org/wiki/Image#/media/Fichier:UtrechtIconoclasm.jpg"
    }
